@@ -1,0 +1,14 @@
+c:\users\rodrigo\documents\visual studio 2015\Projects\estructuras_control_flujo\estructuras_control_flujo\bin\Debug\estructuras_control_flujo.exe.config
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\estructuras_control_flujo\estructuras_control_flujo\bin\Debug\estructuras_control_flujo.exe
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\estructuras_control_flujo\estructuras_control_flujo\bin\Debug\estructuras_control_flujo.pdb
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\estructuras_control_flujo\estructuras_control_flujo\bin\Debug\estructuras_control_flujo.xml
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\estructuras_control_flujo\estructuras_control_flujo\obj\Debug\estructuras_control_flujo.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\estructuras_control_flujo\estructuras_control_flujo\obj\Debug\estructuras_control_flujo.Resources.resources
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\estructuras_control_flujo\estructuras_control_flujo\obj\Debug\estructuras_control_flujo.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\estructuras_control_flujo\estructuras_control_flujo\obj\Debug\estructuras_control_flujo.exe
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\estructuras_control_flujo\estructuras_control_flujo\obj\Debug\estructuras_control_flujo.xml
+C:\Users\Rodrigo\documents\visual studio 2015\Projects\estructuras_control_flujo\estructuras_control_flujo\obj\Debug\estructuras_control_flujo.pdb
+C:\Users\Rodrigo\Source\Repos\pg2-tp202-estructuras-control-rodrigoivan18\estructuras_control_flujo\estructuras_control_flujo\bin\Debug\estructuras_control_flujo.exe.config
+C:\Users\Rodrigo\Source\Repos\pg2-tp202-estructuras-control-rodrigoivan18\estructuras_control_flujo\estructuras_control_flujo\obj\Debug\estructuras_control_flujo.exe
+C:\Users\Rodrigo\Source\Repos\pg2-tp202-estructuras-control-rodrigoivan18\estructuras_control_flujo\estructuras_control_flujo\obj\Debug\estructuras_control_flujo.xml
+C:\Users\Rodrigo\Source\Repos\pg2-tp202-estructuras-control-rodrigoivan18\estructuras_control_flujo\estructuras_control_flujo\obj\Debug\estructuras_control_flujo.pdb
